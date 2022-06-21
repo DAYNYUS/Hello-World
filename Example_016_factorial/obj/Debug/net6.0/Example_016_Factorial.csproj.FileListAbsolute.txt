@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\bin\Debug\net6.0\Example_016_Factorial.exe
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\bin\Debug\net6.0\Example_016_Factorial.deps.json
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\bin\Debug\net6.0\Example_016_Factorial.runtimeconfig.json
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\bin\Debug\net6.0\Example_016_Factorial.dll
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\bin\Debug\net6.0\Example_016_Factorial.pdb
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.AssemblyInfo.cs
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.dll
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\refint\Example_016_Factorial.dll
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.pdb
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\Example_016_Factorial.genruntimeconfig.cache
+C:\Users\User\Desktop\Hello-World\Example_016_Factorial\obj\Debug\net6.0\ref\Example_016_Factorial.dll
